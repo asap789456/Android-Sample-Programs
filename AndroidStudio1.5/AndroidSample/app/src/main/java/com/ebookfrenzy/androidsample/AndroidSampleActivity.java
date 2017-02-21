@@ -10,4 +10,7 @@ public class AndroidSampleActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_android_sample);
     }
+    // this is test for git hub
+
+
 }
